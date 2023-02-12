@@ -2,5 +2,5 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
 capitulo 4: Debo aprender mas sobre Repositorios1
-Capitulo 5: Estoy aprendiendo Github
+Capitulo 10: Estoy aprendiendo Github
 capitulo 7: Terminamos de aprender Github
